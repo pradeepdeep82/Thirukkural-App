@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
+.tamil{
+  font-family: 'Kavivanar', cursive;
+  color:whitesmoke;
+}
+body{
+  background-image: url('https://miro.medium.com/max/1120/0*043K7za1DCedyLVQ.');
+  color:rgb(255, 255, 255);
+  text-align: center;
+  font-family: 'Kavivanar', cursive;
+}
+.kural{
+  text-align:left;
+  
+}
+.errorMsg{
+  color: rgb(255, 169, 169);
+}
+span{
+  color:rgb(177, 252, 229);
+}
+@media (min-width:426px){
+ h5{
+   font-size: 30px;
+ } 
+}
